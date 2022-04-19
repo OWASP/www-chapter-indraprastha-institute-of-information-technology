@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Indraprastha Institute of Information Technology
-tags: example-tag
+tags: iiitd, delhi
 region: Asia
 meetup-group:
 
@@ -12,7 +12,7 @@ meetup-group:
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
-<ul>
+<!-- <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
 
 <li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
@@ -22,12 +22,12 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 <li>region: This is the region you are in according to our data</li>
 
 <li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
+</ul> -->
 
 </div>
 
 ## Welcome
-Include some information here about your chapter
+OWASP Indraprastha Institute of Information Technology, also known as OWASP IIITD, is a Student Chpater started to encourage cybersecurity knowledge and secure cosing practices in the Institute.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -39,6 +39,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
+- Team Meet (Wednesday, 20 April 2022, 7 PM)
 
 <!-- You should delete this comment
 
