@@ -39,7 +39,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
-- Team Meet (Wednesday, 20 April 2022, 7 PM)
+- Team Meet (Thursday, 21 April 2022, 4 PM)
 
 <!-- You should delete this comment
 
