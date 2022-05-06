@@ -4,5 +4,9 @@ OWASP Indraprastha Institute of Information Technology, also known as OWASP IIIT
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-indraprastha-institute-of-information-technology/)
+* [Discord](https://discord.gg/pey4Gma7Ux)
+* [Twitter](https://twitter.com/owaspiiitd)
+* [Instagram](https://instagram.com/owaspiiitd)
+* [LinkedIn](https://linkedin.com/company/owaspiiitd)
 
 
