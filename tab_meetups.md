@@ -7,7 +7,7 @@ tags: iiitd, delhi
 order: 2
 ---
 
-## Past Events
+## Past Meetups
 
 ## Introductory Meetup : 21st May 2022 · 11:00 AM - 1:30 PM (IST)
 
