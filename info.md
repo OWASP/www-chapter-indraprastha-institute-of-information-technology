@@ -1,5 +1,5 @@
 ### Indraprastha Institute of Information Technology Information Student Chapter
-![logo](assets/images/logo.jpg)
+![logo](https://github.com/OWASP/www-chapter-indraprastha-institute-of-information-technology/blob/main/assets/images/OWASP_logo.png)
 OWASP Indraprastha Institute of Information Technology, also known as OWASP IIITD, is a Student Chapter started to encourage cybersecurity knowledge and secure coding practices in the Institute.
 
 ### Social Links
