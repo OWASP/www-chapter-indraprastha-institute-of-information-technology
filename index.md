@@ -35,12 +35,5 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-## Past Events
 
-## Introductory Meetup : 21st May 2022 · 11:00 AM - 1:30 PM (IST)
-
-<img src="assets/images/Screenshot 2022-05-25 at 12.59.58 PM.png">
-
-- [Meetup Details](https://www.meetup.com/owasp-indraprastha-institute-of-information-technology/events/285417503/)
-- Recordings (Coming Soon)
 
