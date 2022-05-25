@@ -36,7 +36,7 @@ Follow our socials to get regualar updates.
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-For previous events, go to the "Events" tab.
+For previous meetups, go to the "Meetups" tab.
 
 
 
