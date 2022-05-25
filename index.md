@@ -20,8 +20,9 @@ meetup-group: owasp-indraprastha-institute-of-information-technology
 The OWASP IIITD Student Chapter was formed in 2022 with the aim of spreading awareness about cybersecurity and malware. We share the same goal as well as the motivation that OWASP shares. We welcome you all to OWASP IIITD Chapter.
 
 ## About OWASP IIITD
-Our Aim and plan is to indulge in sharing our knowledge through CTF's , spreading cybersecurity awareness through our posts on social media, conducting meetups and events.We try to bring reputed speakers in the field of cybersecurity to share their insights and to keep the community updated.
-With a Strength of more than 30 Members, Our organisation is broadly divided into Technical Team and Non Technical Team. The Non Technical Team has various departments in it (Design, Operations, Content, Web Development, Video Editing, Outreach,Finance). Each Member is assigned some roles and the member gives their best for development and growth of the chapter. The Technical Team consists of Members who are experienced in the field of Cybersecurity and have won numerous awards and gained several positions in the field.
+Our aim and plan is to indulge in sharing our knowledge through CTFs, spreading cybersecurity awareness through our posts on social media, and conducting meetups and events. We try to bring reputed speakers in the field of cybersecurity to share their insights and to keep the community updated.
+
+With a strength of more than 30 students, our organisational team is broadly divided into the Technical Team and the Non Technical Team. The Non Technical Team has various departments (Design, Operations, Content, Web Development, Video Editing, Outreach, Finance) that work together to make the chapter function. The Technical Team consists of students who are experienced in the field of cybersecurity and have won numerous awards at CTFs and competitions.
 
 
 ## Participation
