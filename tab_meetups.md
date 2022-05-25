@@ -1,6 +1,6 @@
 ---
-title: events
-displaytext: Events
+title: meetups
+displaytext: Meetups
 layout: null
 tab: true
 tags: iiitd, delhi
