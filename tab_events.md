@@ -1,9 +1,9 @@
 ---
-title: Events
-layout:  col-sidebar
+title: events
+displaytext: Events
+layout: null
 tab: true
 order: 1
-tags: events
 ---
 
 ## Past Events
