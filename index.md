@@ -27,10 +27,8 @@ With a strength of more than 30 students, our organisational team is broadly div
 
 ## Participation
 Interested in participating in OWASP IIITD's events?<br />
-Simply head over to our meetup [site](https://www.meetup.com/owasp-indraprastha-institute-of-information-technology/) and RSVP for any upcoming events.<br />
+Simply head over to our [Meetup Page](https://www.meetup.com/owasp-indraprastha-institute-of-information-technology/) and RSVP for any upcoming events.<br />
 Be a part of the meetup group to get updates on when we organize any events or meetups.<br />
-Follow our socials to get regualar updates.
-
  
 ## Upcoming Events <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
