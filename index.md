@@ -33,7 +33,8 @@ Be a part of the meetup group to get updates on when we organize any events or m
 ## Upcoming Events <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
-
+**UPCOMING MEETUP**: 24 September 2022<br>
+For details and registration, click [here](https://www.meetup.com/owasp-indraprastha-institute-of-information-technology/events/288505455/)! <br>
 For previous meetups, go to the "Meetups" tab.
 
 
