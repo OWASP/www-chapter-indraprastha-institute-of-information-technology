@@ -15,7 +15,7 @@ meetup-group: owasp-indraprastha-institute-of-information-technology
 
 ## Welcome
 
-<img src="assets/images/OWASP_logo.png">
+<img src="assets/images/Frame 1.png">
 
 The OWASP IIITD Student Chapter was formed in 2022 with the aim of spreading awareness about cybersecurity and malware. We share the same goal as well as the motivation that OWASP shares. We welcome you all to OWASP IIITD Chapter.
 
@@ -32,8 +32,7 @@ Be a part of the meetup group to get updates on when we organize any events or m
  
 ## Upcoming Events <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-**UPCOMING MEETUP**: 24 September 2022<br>
-For details and registration, click [here](https://www.meetup.com/owasp-indraprastha-institute-of-information-technology/events/288505455/)! <br>
+{% include chapter_events.html group=page.meetup-group %}
 For previous meetups, go to the "Meetups" tab.
 
 
