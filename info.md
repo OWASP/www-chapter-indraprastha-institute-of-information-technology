@@ -11,4 +11,4 @@ OWASP Indraprastha Institute of Information Technology, also known as OWASP IIIT
 * [Instagram](https://instagram.com/owaspiiitd)
 * [LinkedIn](https://linkedin.com/company/owaspiiitd)
 * [Gmail](mailto:owasp@iiitd.ac.in)
-
+* [OWASP Leadership email(mailto:indraprastha-institute-of-information-technology-leaders@owasp.org)
