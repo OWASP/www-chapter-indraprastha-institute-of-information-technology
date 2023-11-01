@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Indraprastha Institute of Information Technology - Student Chapter
 tags: iiitd, delhi
 region: Asia
+country: India
 meetup-group: owasp-indraprastha-institute-of-information-technology
 
 ---
