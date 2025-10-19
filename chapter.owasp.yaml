@@ -1,0 +1,24 @@
+leaders:
+  - name: Mehul Arora
+    email: mehul.arora@owasp.org
+    github: mehulenc
+  - name: Dr. Sambuddho Chakravarty
+    email: sambuddho.chakravarty@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: New Delhi
+  city: Delhi
+  latitude: 28.6024541
+  longitude: 77.3141628
+meetup_group: owasp-indraprastha-institute-of-information-technology
+name: OWASP Indraprastha Institute of Information Technology - Student Chapter
+repositories:
+  - name: www-chapter-indraprastha-institute-of-information-technology
+    url: https://github.com/OWASP/www-chapter-indraprastha-institute-of-information-technology
+    description: OWASP Foundation Web Repository
+tags:
+  - iiitd
+  - delhi
+  - custom-tag-1
+website: https://owasp.org/www-chapter-indraprastha-institute-of-information-technology
